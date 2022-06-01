@@ -1,0 +1,1 @@
+2o Projeto do curso de desenvolvimento web, que consiste em um site de layout fixo de um site de uma modelo. Em sua construção foram utilizados conhecimentos básicos em HTML e CSS.
